@@ -145,32 +145,6 @@ Read    → View Student / Result
 Update  → Modify Student / Marks
 Delete  → Remove Student / Record
 
-These operations are performed using Java, Servlets, JDBC, and MySQL.
-
-📂 Project Structure
-StudentResultPortal
-│
-├── src/
-│   ├── Controller/
-│   ├── DAO/
-│   ├── Model/
-│   └── Service/
-│
-├── WebContent/
-│   ├── css/
-│   ├── js/
-│   ├── images/
-│   ├── admin/
-│   ├── student/
-│   └── *.jsp
-│
-├── database/
-│   └── student_result.sql
-│
-└── README.md
-
-The folder structure may vary depending on the implementation of the project.
-
 ▶️ How to Run the Project
 1. Clone the Repository
 git clone https://github.com/YOUR-USERNAME/StudentResultPortal.git

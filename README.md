@@ -233,8 +233,6 @@ Suchi
 
 GitHub: github.com/SuchiWebdevx
 
-📄 License
-
 This project was developed for educational and learning purposes.
 
 Student Result Portal

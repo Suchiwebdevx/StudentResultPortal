@@ -35,7 +35,6 @@ Add examination marks
 Update marks
 View student records
 Manage result information
-View student performance details
 🏛️ Core Functionality
 
 The portal follows a structured process for managing student results:

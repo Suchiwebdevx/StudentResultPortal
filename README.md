@@ -227,9 +227,6 @@ HTTP Request and Response Handling
 Database Connectivity
 Dynamic Web Application Development
 Git and GitHub
-👨‍💻 Developer
-
-Suchi
 
 GitHub: github.com/SuchiWebdevx
 

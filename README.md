@@ -146,7 +146,7 @@ Delete  → Remove Student / Record
 
 ▶️ How to Run the Project
 1. Clone the Repository
-git clone https://github.com/YOUR-USERNAME/StudentResultPortal.git
+git clone https://github.com/Suchiwebdevx/StudentResultPortal.git
 2. Import the Project
 
 Open Eclipse IDE and import the project as a Java Web / Dynamic Web Project.
